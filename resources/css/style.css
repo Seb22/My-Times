@@ -1,0 +1,23 @@
+/*Header*/
+
+.header h1 {color: MediumAquamarine;
+            font-size: 14px;
+            padding: 10px;
+          }
+
+.header {display: flex;
+        font-family: Verdana;
+        font-size: 14px;
+        font-weight: bold;
+        padding: 10px 20px;
+        border-bottom: 0.5px solid black;
+        }
+
+
+
+.header nav {display: inline-block;
+            padding-top: 20px;
+            padding-left: 1250px;
+}
+
+/*Main*/
